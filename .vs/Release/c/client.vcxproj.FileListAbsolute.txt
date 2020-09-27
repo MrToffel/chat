@@ -1,0 +1,4 @@
+C:\Users\Root\OneDrive\source\repos\chat\.vs\Release\c\client.vcxprojAssemblyReference.cache
+C:\Users\Root\OneDrive\source\repos\chat\.vs\Release\c\kagge.Form1.resources
+C:\Users\Root\OneDrive\source\repos\chat\.vs\Release\c\client.vcxproj.GenerateResource.cache
+C:\Users\Root\OneDrive\source\repos\chat\.vs\Release\c\chat.exe

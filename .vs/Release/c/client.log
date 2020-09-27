@@ -1,0 +1,13 @@
+﻿cl : befehlszeile warning D9035: Die Option "clr:pure" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  stdafx.cpp
+cl : befehlszeile warning D9035: Die Option "clr:pure" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  AssemblyInfo.cpp
+C:\Users\Root\OneDrive\source\repos\chat\client\AssemblyInfo.cpp(40,29): warning C4947: "System::Security::Permissions::SecurityAction::RequestMinimum": als veraltet markiert.
+C:\Users\Root\OneDrive\source\repos\chat\client\AssemblyInfo.cpp(40,29): message : Meldung: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  client.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\yvals.h(230): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+  Code wird generiert...
+cl : befehlszeile warning D9035: Die Option "clr:pure" ist veraltet und wird in einer der nächsten Versionen entfernt.
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
+  client.vcxproj -> C:\Users\Root\OneDrive\source\repos\chat\.vs\Release\c\chat.exe
