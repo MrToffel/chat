@@ -1,1 +1,1 @@
-ein einfaches Programm welches mit Winsock sockets Nachrichten sendet und empfängt
+ein einfaches Programm welches mit Winsock Nachrichten sendet und empfängt
